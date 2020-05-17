@@ -1,0 +1,31 @@
+  h1 {color: #5c2a9d}
+  h3 {color: #543864}
+  h2 {color: #543864}
+
+  body {background-color: #43d8c9}
+
+  hr {
+      border-color: #95389e;
+      border-top-style: dotted;
+      border-bottom-style: none;
+      border-width: 5px;
+    }
+
+  img {height: 100px;
+    width: 150px;}
+
+  h1:hover {background-color: lavender;}
+
+  h3:hover {background-color: palegreen;}
+
+  p:hover {background-color: lightpink}
+
+  img:hover {background-color: gold}
+
+  ul:hover {background-color: #f1ebbb}
+
+  .kitty{background-color: chartreuse;}
+
+  /*dis a new section*/
+
+  #heading{color: fuchsia;}
